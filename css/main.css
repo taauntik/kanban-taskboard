@@ -1,13 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+
 .kanban {
     display: flex;
     padding: 30px;
     width: 750px;
-    background-color: #009578;
+    background-color: #3298a6;
     border-radius: 5px;
 }
 
 .kanban * {
-    font-family: sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .kanban__column {
